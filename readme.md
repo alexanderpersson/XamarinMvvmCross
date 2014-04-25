@@ -1,0 +1,1 @@
+Sample code for [blogpost](http://www.jayway.com/2014/04/25/xamarin-and-mvvmcross-on-android/)
